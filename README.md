@@ -6,5 +6,5 @@ e il file da trascrivere.
 Genera un file TXT con la trascrizione e la mostra anche a video.
 
 **RUNNING**    
-pip install -U openai-whisper tiktoken torch tk  
+pip install openai-whisper tiktoken torch tk  
 python trascrittore.py  
